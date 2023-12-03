@@ -1,4 +1,3 @@
-```markdown
 ## Overview
 This R script automates the process of sending scheduled emails for various reports related to retail operations at BookXchange. The script utilizes the RDCOMClient package to interact with Microsoft Outlook, attaching relevant reports and sending emails to specified recipients.
 
@@ -46,6 +45,5 @@ Replace sensitive information such as file paths and email addresses before runn
 
 Author: Example User
 Email: example.user@example.com
-```
 
 This README provides an overview of the script, lists prerequisites, guides on email configuration, and includes sections for each task with corresponding code snippets. Ensure to replace example emails, file paths, and any confidential information before running the script.
