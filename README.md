@@ -1,8 +1,4 @@
-Certainly! Here's the README with a short description:
-
 ```markdown
-# Retail Reporting Automation
-
 ## Overview
 This R script automates the process of sending scheduled emails for various reports related to retail operations at BookXchange. The script utilizes the RDCOMClient package to interact with Microsoft Outlook, attaching relevant reports and sending emails to specified recipients.
 
